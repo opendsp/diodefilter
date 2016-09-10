@@ -8,7 +8,7 @@
  * @credits Dominique Wurtz
  */
 
-import clip from 'opendsp/softclip';
+import clip from 'softclip';
 
 export default DiodeFilter;
 
